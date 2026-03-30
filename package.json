@@ -9,5 +9,8 @@
     "build": "echo 'Build complete'"
   },
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
